@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanZeng2000&theme=dark&layout=compact)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://www.github.com/YihanZeng2000&right_color=red" />
 
 
