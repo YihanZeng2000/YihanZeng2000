@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanZeng2000&theme=dark&layout=compact)
 
+![](https://activity-graph.herokuapp.com/graph?username=YihanZeng2000&theme=github)
+
 
 
 
