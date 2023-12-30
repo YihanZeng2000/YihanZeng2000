@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YihanZeng2000&theme=dark&layout=compact)
 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+
+
 
 
 
